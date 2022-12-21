@@ -9,3 +9,7 @@ npx cypress open
 Link to Circle Ci
 https://app.circleci.com/pipelines/github/Groenbek/Testing_ExamFinal/1/workflows/ffb2e9cf-5d07-4731-92af-8cea6219121f
 
+Cypress end-end
+Static testing
+CircleCI
+Stess performance testing
