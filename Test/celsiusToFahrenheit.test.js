@@ -10,7 +10,7 @@ test('celsius minimum', () => {
 });
 
 test('celsius upper', () => {
-  expect(Converters.celsiusToFahrenheit(5778)).toBe(10432);
+  expect(Converters.celsiusToFahrenheit(5778)).toBe(a10432);
 });
 
 test('celsius zero', () => {
