@@ -6,7 +6,7 @@ document.body.innerHTML =
   '<div><span id="celsOutput" /></div>';
   
 test('fahrenheit minimum', () => {
-  expect(Converters.fahrenheitToCelsius(-459)).toBe(273);
+  expect(Converters.fahrenheitToCelsius(-459)).toBe(-273);
 });
 
 test('fahrenheit upper', () => {
