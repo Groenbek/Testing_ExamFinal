@@ -12,4 +12,4 @@ https://app.circleci.com/pipelines/github/Groenbek/Testing_ExamFinal/1/workflows
 Cypress end-end
 Static testing
 CircleCI
-Stess performance testing
+Stess performance testing  
